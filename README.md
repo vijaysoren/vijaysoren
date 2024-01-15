@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on android or node.js application.
 - 📫 How to reach me :
         
- send me email soren289@hotmail.com
+ send me email :
+ 
 
  visit : www.netconnectapps.com
 
